@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="96.5" cy="305.5" rx="30" ry="30"/>
+	<text x="27.5" y="311.5" font-family="Times New Roman" font-size="20">Waiting for Input</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="599.5" cy="69.5" rx="30" ry="30"/>
+	<text x="458.5" y="75.5" font-family="Times New Roman" font-size="20">Move Cursor to line 12, column 45</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="614.5" cy="507.5" rx="30" ry="30"/>
+	<text x="534.5" y="513.5" font-family="Times New Roman" font-size="20">Change font to bold</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="528.5" cy="305.5" rx="30" ry="30"/>
+	<text x="480.5" y="311.5" font-family="Times New Roman" font-size="20">Output Text</text>
+	<polygon stroke="black" stroke-width="1" points="123.659,292.757 572.341,82.243"/>
+	<polygon fill="black" stroke-width="1" points="572.341,82.243 562.975,81.114 567.222,90.167"/>
+	<text x="352.5" y="208.5" font-family="Times New Roman" font-size="20">ESC[12;45f</text>
+	<polygon stroke="black" stroke-width="1" points="124.45,316.399 586.55,496.601"/>
+	<polygon fill="black" stroke-width="1" points="586.55,496.601 580.913,489.036 577.28,498.352"/>
+	<text x="283.5" y="428.5" font-family="Times New Roman" font-size="20">ESC[1m</text>
+	<polygon stroke="black" stroke-width="1" points="126.5,305.5 498.5,305.5"/>
+	<polygon fill="black" stroke-width="1" points="498.5,305.5 490.5,300.5 490.5,310.5"/>
+	<text x="243.5" y="326.5" font-family="Times New Roman" font-size="20">Input regular text</text>
+</svg>
